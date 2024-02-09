@@ -1,19 +1,10 @@
 
 /* Your CSS Code here. */
 .eg1{
-	
+	width:300px;
+	background-color:lightblue;
+	border:15px solid blue;
+	padding:50px;
 	margin:20px;
 	
 }
-.eg2{
-	border:15px;
-	
-	
-}
-.eg3{
-	padding:50px;
-}
-.eg4{
-	width:300px;
-}
-
